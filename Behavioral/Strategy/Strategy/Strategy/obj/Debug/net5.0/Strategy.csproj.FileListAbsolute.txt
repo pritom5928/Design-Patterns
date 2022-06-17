@@ -1,0 +1,16 @@
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\bin\Debug\net5.0\Strategy.exe
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\bin\Debug\net5.0\Strategy.deps.json
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\bin\Debug\net5.0\Strategy.dll
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\bin\Debug\net5.0\Strategy.pdb
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\obj\Debug\net5.0\Strategy.csproj.AssemblyReference.cache
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\obj\Debug\net5.0\Strategy.dll
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\obj\Debug\net5.0\Strategy.pdb
+C:\Self files\Design Patterns\Behavioral\Strategy\Strategy\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache
