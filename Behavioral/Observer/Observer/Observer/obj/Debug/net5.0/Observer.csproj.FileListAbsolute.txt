@@ -1,0 +1,16 @@
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\net5.0\Observer.exe
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\net5.0\Observer.deps.json
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\net5.0\Observer.dll
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\net5.0\ref\Observer.dll
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\net5.0\Observer.pdb
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\net5.0\Observer.csproj.AssemblyReference.cache
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\net5.0\Observer.dll
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\net5.0\ref\Observer.dll
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\net5.0\Observer.pdb
+C:\Self files\Design Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache
