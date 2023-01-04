@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Self files\\Design Patterns\\Creational\\Factory\\Factory\\Factory\\Factory.csproj": {}
+    "D:\\Self Files\\Design-Patterns\\Creational\\Factory\\Factory\\Factory\\Factory.csproj": {}
   },
   "projects": {
-    "C:\\Self files\\Design Patterns\\Creational\\Factory\\Factory\\Factory\\Factory.csproj": {
+    "D:\\Self Files\\Design-Patterns\\Creational\\Factory\\Factory\\Factory\\Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Self files\\Design Patterns\\Creational\\Factory\\Factory\\Factory\\Factory.csproj",
+        "projectUniqueName": "D:\\Self Files\\Design-Patterns\\Creational\\Factory\\Factory\\Factory\\Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "C:\\Self files\\Design Patterns\\Creational\\Factory\\Factory\\Factory\\Factory.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Self files\\Design Patterns\\Creational\\Factory\\Factory\\Factory\\obj\\",
+        "projectPath": "D:\\Self Files\\Design-Patterns\\Creational\\Factory\\Factory\\Factory\\Factory.csproj",
+        "packagesPath": "C:\\Users\\prito\\.nuget\\packages\\",
+        "outputPath": "D:\\Self Files\\Design-Patterns\\Creational\\Factory\\Factory\\Factory\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\prito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
