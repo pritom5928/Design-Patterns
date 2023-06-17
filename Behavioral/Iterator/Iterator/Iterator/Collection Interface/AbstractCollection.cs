@@ -7,8 +7,8 @@ using Iterator.Iterator_Implementations;
 
 namespace Iterator.Collection_Interface
 {
-    public interface AbstractCollection
+    public interface AbstractCollection<T> 
     {
-        Iterator.Iterator_Implementations.Iterator CreateIterator();
+        Iterator.Iterator_Implementations.Iterator<T> CreateIterator();
     }
 }

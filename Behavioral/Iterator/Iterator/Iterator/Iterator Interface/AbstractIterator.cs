@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace Iterator.Iterator_Interface
 {
-    public interface AbstractIterator
+    public interface AbstractIterator<T>
     {
-        Employee First();
-        Employee Next();
+        T First();
+        T Next();
         bool IsCompleted { get; }
     }
 }

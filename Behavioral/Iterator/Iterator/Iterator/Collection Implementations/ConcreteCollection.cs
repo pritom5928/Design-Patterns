@@ -5,28 +5,32 @@ using System.Collections.Generic;
 
 namespace Iterator.Collection_Implementations
 {
-    public class ConcreteCollection : AbstractCollection
+    public class ConcreteCollection<T> : AbstractCollection<T>
     {
-        private List<Employee> listEmployees = new List<Employee>();
+        private List<T> objects = new List<T>();
+
         //Create Iterator
-        public Iterator.Iterator_Implementations.Iterator CreateIterator()
+        public Iterator.Iterator_Implementations.Iterator<T> CreateIterator()
         {
-            return new Iterator.Iterator_Implementations.Iterator(this);
+            return new Iterator.Iterator_Implementations.Iterator<T>(this);
         }
+
         // Gets item count
         public int Count
         {
-            get { return listEmployees.Count; }
+            get { return objects.Count; }
         }
+
         //Add items to the collection
-        public void AddEmployee(Employee employee)
+        public void AddElement(T element)
         {
-            listEmployees.Add(employee);
+            objects.Add(element);
         }
+
         //Get item from collection
-        public Employee GetEmployee(int IndexPosition)
+        public T Get(int IndexPosition)
         {
-            return listEmployees[IndexPosition];
+            return objects[IndexPosition];
         }
 
     }

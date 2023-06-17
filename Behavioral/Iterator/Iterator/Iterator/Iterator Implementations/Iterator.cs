@@ -9,36 +9,36 @@ using System.Threading.Tasks;
 
 namespace Iterator.Iterator_Implementations
 {
-    public class Iterator : AbstractIterator
+    public class Iterator<T> : AbstractIterator<T>
     {
-        private ConcreteCollection collection;
+        private ConcreteCollection<T> collection;
         private int current = 0;
         private int step = 1;
 
         // Constructor
-        public Iterator(ConcreteCollection collection)
+        public Iterator(ConcreteCollection<T> collection)
         {
             this.collection = collection;
         }
 
         // Gets first item
-        public Employee First()
+        public T First()
         {
             current = 0;
-            return collection.GetEmployee(current);
+            return collection.Get(current);
         }
 
         // Gets next item
-        public Employee Next()
+        public T Next()
         {
             current += step;
             if (!IsCompleted)
             {
-                return collection.GetEmployee(current);
+                return collection.Get(current);
             }
             else
             {
-                return null;
+                return default(T);
             }
         }
 

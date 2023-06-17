@@ -14,3 +14,19 @@ C:\Self files\Design Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\ne
 C:\Self files\Design Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\ref\Iterator.dll
 C:\Self files\Design Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.pdb
 C:\Self files\Design Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.genruntimeconfig.cache
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\bin\Debug\net5.0\Iterator.exe
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\bin\Debug\net5.0\Iterator.deps.json
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.json
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.dev.json
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\bin\Debug\net5.0\Iterator.dll
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\bin\Debug\net5.0\Iterator.pdb
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.csproj.AssemblyReference.cache
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfoInputs.cache
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfo.cs
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.csproj.CoreCompileInputs.cache
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.dll
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\refint\Iterator.dll
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.pdb
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\Iterator.genruntimeconfig.cache
+D:\Self Files\Design-Patterns\Behavioral\Iterator\Iterator\Iterator\obj\Debug\net5.0\ref\Iterator.dll
